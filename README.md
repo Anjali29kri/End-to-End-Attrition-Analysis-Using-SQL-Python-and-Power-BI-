@@ -40,3 +40,4 @@ The goal of the project is to:
 ---
 
 ##  Project Structure
+<img width="1234" height="732" alt="Dashboard(1)" src="https://github.com/Anjali29kri/End-to-End-Attrition-Analysis-Using-SQL-Python-and-Power-BI-/blob/main/Dashboard(1).png" />
